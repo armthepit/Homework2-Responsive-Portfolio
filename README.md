@@ -4,9 +4,9 @@
 
 ### Overview
 
-![About Me] (assets/images/about.jpg)
-![Portfolio] (assets/images/portfolio.jpg)
-![Contact] (assets/images/contact.jpg)
+![About Me] (assignment1/assets/images/about.jpg)
+![Portfolio] (assignment1/assets/images/portfolio.jpg)
+![Contact] (assignment1/assets/images/contact.jpg)
 
 ## First with media-query CSS
 
